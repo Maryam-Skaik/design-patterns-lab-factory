@@ -157,6 +157,20 @@ Redesign the system to improve:
 
 ---
 
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+**Note:** All activity solutions are now available in the `/solutions` folder. Each solution includes:
+- UML diagrams (README)
+- Clean Java implementation
+- Notes on relationships and key design points
+- Optional bonus methods
+
+> Students can use these as references after completing the activities to compare their implementations or understand design decisions.
+
+---
+
 ## 🚀 How to Use This Repository
 
 1. Fork the repository  
